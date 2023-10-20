@@ -70,13 +70,13 @@ const Index = () => {
         </div>
       </div>
 
-      <div class="bg-gradient-to-r from-cyan-200 to-blue-500 h-20 mt-11 self-center p-4">
+      <div class="bg-gradient-to-r from-cyan-200 to-blue-500 h-20 mt-11 self-center p-4 ">
         <center>
           <h1 class=" text-4xl">Our Special Features and Insights!</h1>
         </center>
       </div>
-      <div className=" bg-[#002D62] h-96 mt-11">
-        <div className="container mx-auto mt-10">
+      <div className=" bg-[#002D62] h-fit">
+        <div className="container mx-auto mt-10 ">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             <div className="bg-white p-4 shadow-lg rounded-lg h-96 hover:scale-110  hover:bg-sky-200 ...">
               <img
