@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@layer utilities{
+    .main{
+        
+        background-image: url("https://media.discordapp.net/attachments/1164497786964803585/1164821262082768927/Design_3_1.png?ex=65449b56&is=65322656&hm=a988d1577ccc03281d66b012ab269865e12fef378c7f712b105f95efdacdc232&=&width=1125&height=589");
+        background-repeat:no-repeat;
+        background-size:cover;
+        overflow: hidden;
+        height: 100vh;
+        
+    }
+}
